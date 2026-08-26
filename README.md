@@ -11,6 +11,7 @@ This repository organizes working notes, course capture, and implementation play
 | [`Core_30_Website_Build_Course_Notes.md`](./Core_30_Website_Build_Course_Notes.md) | Detailed capture of the Core 30 website-build course: Overview, Prompt 0 through Prompt 8, Lovable crawlability notes, linking logic, page types, and technical launch requirements. | Plan and build a local-service Core 30 website. |
 | [`Prompt_Catalog_Notes.md`](./Prompt_Catalog_Notes.md) | Reference notes for the accessible Prompt Catalog, including audits, GBP, local research, architecture, content, client delivery, automation, and AI-search topics. | Select the right supporting prompt or workflow for a local SEO engagement. |
 | [`Core_30_Agent_and_Operations_Playbook.md`](./Core_30_Agent_and_Operations_Playbook.md) | Operational extension covering evidence-led geographic content, Core 30 Agent design, human-AI governance, transparent scope/pricing framework, reporting, and platform guardrails. | Run the methodology as a repeatable client-delivery and content-production system. |
+| [`Podcast_Local_SEO_AI_Era_Addendum.md`](./Podcast_Local_SEO_AI_Era_Addendum.md) | Curated local SEO lessons from a practitioner podcast: citation-ready decision content, evidence-first AI production, reputation guardrails, content consolidation, architecture, conversion experiments, and a hypothesis register. | Apply AI-era local SEO ideas without mistaking practitioner observations for platform policy. |
 
 ## Recommended Operating Sequence
 
